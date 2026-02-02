@@ -1,0 +1,15 @@
+C:\Users\MMSor\Desktop\KodehodeIntro\øvinger\fcc1\bin\Debug\net9.0\fcc1.exe
+C:\Users\MMSor\Desktop\KodehodeIntro\øvinger\fcc1\bin\Debug\net9.0\fcc1.deps.json
+C:\Users\MMSor\Desktop\KodehodeIntro\øvinger\fcc1\bin\Debug\net9.0\fcc1.runtimeconfig.json
+C:\Users\MMSor\Desktop\KodehodeIntro\øvinger\fcc1\bin\Debug\net9.0\fcc1.dll
+C:\Users\MMSor\Desktop\KodehodeIntro\øvinger\fcc1\bin\Debug\net9.0\fcc1.pdb
+C:\Users\MMSor\Desktop\KodehodeIntro\øvinger\fcc1\obj\Debug\net9.0\fcc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MMSor\Desktop\KodehodeIntro\øvinger\fcc1\obj\Debug\net9.0\fcc1.AssemblyInfoInputs.cache
+C:\Users\MMSor\Desktop\KodehodeIntro\øvinger\fcc1\obj\Debug\net9.0\fcc1.AssemblyInfo.cs
+C:\Users\MMSor\Desktop\KodehodeIntro\øvinger\fcc1\obj\Debug\net9.0\fcc1.csproj.CoreCompileInputs.cache
+C:\Users\MMSor\Desktop\KodehodeIntro\øvinger\fcc1\obj\Debug\net9.0\fcc1.sourcelink.json
+C:\Users\MMSor\Desktop\KodehodeIntro\øvinger\fcc1\obj\Debug\net9.0\fcc1.dll
+C:\Users\MMSor\Desktop\KodehodeIntro\øvinger\fcc1\obj\Debug\net9.0\refint\fcc1.dll
+C:\Users\MMSor\Desktop\KodehodeIntro\øvinger\fcc1\obj\Debug\net9.0\fcc1.pdb
+C:\Users\MMSor\Desktop\KodehodeIntro\øvinger\fcc1\obj\Debug\net9.0\fcc1.genruntimeconfig.cache
+C:\Users\MMSor\Desktop\KodehodeIntro\øvinger\fcc1\obj\Debug\net9.0\ref\fcc1.dll
